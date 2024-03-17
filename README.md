@@ -3,6 +3,8 @@
 Working on the Designlab re-branding and the creation of a visual design system represented a significant milestone in my career as a UX/UI designer. Designlab, a leader in design education, sought to refresh its brand identity and establish a comprehensive visual design system that would reflect its innovative approach to teaching design. My role in this project came after a branding agency laid the foundational proposal for the rebranding. I was tasked with expanding upon this proposal by broadening the color palette, creating unique iconography for each color, and developing templates for various deliverables.
 
 [Figma file](https://www.figma.com/file/xhqvOUZQuRLEuOssRdMKKZ/Designlab-Rebranding?type=design&node-id=2%3A472&mode=design&t=OBH1Dq1IFmGUF2nh-1)
+[Audit file](https://www.figma.com/file/X2FwNfbUFpHojzjW5LN0Kb/FUTURE-BACKCASTING?type=whiteboard&node-id=0%3A1&t=aIwwEUnvK580SO1S-1)
+
 
 ### My Role
 
@@ -30,23 +32,45 @@ The process of enhancing and applying the new visual design system involved seve
 
 The Designlab re-branding and visual design system project was a deeply rewarding challenge that allowed me to contribute to shaping the brand's future direction. By expanding the color palette, creating meaningful iconography, and developing versatile templates, I aimed to create a visual identity that was both distinctive and reflective of Designlab's commitment to design education excellence. This project underscored the importance of thoughtful design in communicating brand values and enhancing user engagement across various touchpoints.
 
+Audit:
+![alt text](doc/24.png)
+Accessibility Audit:
+![alt text](doc/25.png)
+Project management Audit:
 ![alt text](doc/01.jpg)
+Font choices:
 ![alt text](doc/02.jpg)
+Colours provided by the branding agency:
 ![alt text](doc/03.jpg)
+Colours exploration:
 ![alt text](doc/04.jpg)
+New Courses colours:
 ![alt text](doc/05.jpg)
+New Courses logos:
 ![alt text](doc/06.jpg)
+UI colour palette deliverable:
 ![alt text](doc/08.jpg)
+UI design system deliverable:
 ![alt text](doc/09.jpg)
+Graph deliverable:
 ![alt text](doc/10.jpg)
+Chart deliverable:
 ![alt text](doc/11.jpg)
+Chart deliverable:
 ![alt text](doc/12.jpg)
+Task flow deliverable:
 ![alt text](doc/13.jpg)
+Sitemap deliverable:
 ![alt text](doc/14.jpg)
+UX Storyboarding deliverable:
 ![alt text](doc/15.jpg)
+User Persona deliverable:
 ![alt text](doc/16.jpg)
+Infographic deliverable:
 ![alt text](doc/17.jpg)
+Infographic deliverable:
 ![alt text](doc/18.jpg)
+Icons for design system:
 ![alt text](doc/19.png)
 ![alt text](doc/20.png)
 ![alt text](doc/21.png)
